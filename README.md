@@ -136,8 +136,8 @@ Al hacer clic en Si se puede apreciar la simulación del robot ejecutando cada u
 
 ## Videos
 Primeros movimientos del Robot Scara T6
-[![Mirar el video](https://github.com/EdoCuadros/Lab4/blob/main/images/ros2.png)](https://youtube.com/shorts/D-2qUfs76IA)
+[![Mirar el video](images/Video_1.png)](https://youtube.com/shorts/D-2qUfs76IA)
 Movimientos para paletizado  del Scara T6
-[![Mirar el video](https://github.com/EdoCuadros/Lab4/blob/main/images/ros2.png)](https://youtube.com/shorts/M-C3dDOEr-M)
+[![Mirar el video](images/Video_3.png)](https://youtube.com/shorts/M-C3dDOEr-M)
 
 

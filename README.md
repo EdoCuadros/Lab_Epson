@@ -144,3 +144,7 @@ Movimientos para paletizado  del Scara T6
 [![Mirar el video](images/Video_3.png)](https://youtube.com/shorts/M-C3dDOEr-M)
 
 
+## Conclusiones
+La práctica con la empresa de Control de Movimiento y su robot EPSON SCARA T6 permitió poner en práctica diferentes elementos trabajados en la capacitación previa. De tal forma que, se utilizó el software EPSON RC, se desarrolló código en SPEL, se verificó la simulación y se pudo evidenciar el resultado en el proceso real.
+
+La interfaz de programación de EPSON para los robot SCARA es de menor complejidad que la trabajada con los robot de seis grados de libertad de la marca ABB usados en el LabSIR.

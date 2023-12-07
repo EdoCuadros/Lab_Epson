@@ -21,7 +21,7 @@ Consolidar el uso de los comandos Go, Move, Jump, Pallet y Pallet Outside, en el
 Luego de ejecutar el software EPSON RC, se debe hacer clic en Proyecto/Cerra. De esta manera se garantiza que no se tiene ningún proyecto abierto.
 
 Posteriormente se establece la comunicación del PC al controlador para ello se hace clic en Comunicaciones de PC a controlador 
-Epson_1
+![image](images/Epson_1.png)
 Se selecciona el controlador y se hace clic en conectar
 Epson_2
 Ahora aparece en la parte de Conexión el nombre del controlador seleccionado. En este paso, el software se demora algo mientras reinicia el controlador
